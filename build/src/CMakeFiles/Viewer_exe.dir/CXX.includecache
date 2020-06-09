@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/FifoManager.h
+string
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+unistd.h
+-
+iostream
+-
+signal.h
+-
+string.h
+-
+
+/Users/haero_kim/p3/src/Viewer.cpp
+FifoManager.h
+/Users/haero_kim/p3/src/FifoManager.h
+

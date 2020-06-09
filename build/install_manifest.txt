@@ -1,0 +1,5 @@
+/Users/haero_kim/p3/src/../bin/Admin_exe
+/Users/haero_kim/p3/src/../bin/Viewer_exe
+/Users/haero_kim/p3/lib/../lib/libiVote.a
+/Users/haero_kim/p3/lib/../lib/libStar.a
+/Users/haero_kim/p3/lib/../lib/libFifoManager.a

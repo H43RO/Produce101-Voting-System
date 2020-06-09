@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/Star.h
+string
+-
+vector
+-
+iostream
+-
+stdlib.h
+-
+time.h
+-
+
+/Users/haero_kim/p3/lib/Star.cpp
+Star.h
+/Users/haero_kim/p3/lib/Star.h
+
